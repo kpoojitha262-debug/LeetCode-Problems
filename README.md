@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1021-remove-outermost-parentheses](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/2747-count-zero-request-servers) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
