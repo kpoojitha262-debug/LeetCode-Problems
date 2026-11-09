@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [1021-remove-outermost-parentheses](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
@@ -58,4 +59,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
