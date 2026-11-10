@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1882-process-tasks-using-servers](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/2747-count-zero-request-servers) |
+| [3693-climbing-stairs-ii](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/3693-climbing-stairs-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [3693-climbing-stairs-ii](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/3693-climbing-stairs-ii) |
 ## Manacher
 |  |
 | ------- |
