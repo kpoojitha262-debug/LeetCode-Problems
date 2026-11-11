@@ -73,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Greedy
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
