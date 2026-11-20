@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1882-process-tasks-using-servers](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/2747-count-zero-request-servers) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 ## Stack
 |  |
 | ------- |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3693-climbing-stairs-ii](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/3693-climbing-stairs-ii) |
 ## Manacher
 |  |
