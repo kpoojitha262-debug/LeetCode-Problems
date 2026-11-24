@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/0066-plus-one) |
 | [1267-count-servers-that-communicate](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [1882-process-tasks-using-servers](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/1882-process-tasks-using-servers) |
 | [2747-count-zero-request-servers](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/2747-count-zero-request-servers) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/0066-plus-one) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Greedy
 |  |
