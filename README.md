@@ -55,11 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/0100-same-tree) |
 | [1267-count-servers-that-communicate](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/0100-same-tree) |
 | [1267-count-servers-that-communicate](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/1267-count-servers-that-communicate) |
 ## Union-Find
 |  |
@@ -119,5 +121,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/0100-same-tree) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/3331-find-subtree-sizes-after-changes) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
