@@ -35,11 +35,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/3693-climbing-stairs-ii) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Sorting
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/2747-count-zero-request-servers) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Stack
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1882-process-tasks-using-servers](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/1882-process-tasks-using-servers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/kpoojitha262-debug/LeetCode-Problems/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Segment Tree
 |  |
 | ------- |
